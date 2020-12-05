@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "dado"
+  "defaultProject": "dado",
+  "cli": {
+    "analytics": "f1c54b11-afd8-4a3e-8c81-fb26ae4c3d36"
+  }
 }
